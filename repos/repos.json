@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "diting_KernelSU_Proton",
       "repo": "https://github.com/fadediris/test.git",
-      "branch": "main",
+      "branch": "test",
       "device": "deting",
       "defconfig": "vendor/diting_GKI.config"
     },
